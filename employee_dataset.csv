@@ -1,0 +1,101 @@
+EmployeeID,Name,Department,Location,Age,Salary
+1001,Ian,Marketing,Phoenix,60,42096
+1002,Grace,HR,Los Angeles,45,68219
+1003,Eva,Sales,New York,25,55736
+1004,Charlie,HR,Chicago,44,57057
+1005,Grace,Finance,Los Angeles,32,48955
+1006,Jane,Finance,Houston,36,96617
+1007,Helen,Finance,Chicago,51,110252
+1008,Grace,Marketing,Phoenix,54,63009
+1009,Charlie,Sales,Houston,26,110688
+1010,Bob,Finance,Houston,25,59472
+1011,Grace,Finance,Phoenix,24,110777
+1012,Helen,Marketing,Houston,33,88183
+1013,Grace,HR,Houston,60,67425
+1014,Charlie,Finance,Chicago,33,72632
+1015,Ian,IT,New York,27,95275
+1016,Helen,IT,Houston,51,92092
+1017,Eva,Sales,Los Angeles,22,61056
+1018,Bob,Sales,New York,35,98083
+1019,David,Finance,Chicago,59,59458
+1020,Grace,Sales,New York,34,99134
+1021,Ian,Finance,Houston,45,114031
+1022,Grace,Marketing,Los Angeles,26,75933
+1023,Helen,Marketing,Houston,57,78475
+1024,Eva,IT,Los Angeles,22,50828
+1025,Jane,HR,Chicago,27,119311
+1026,Bob,IT,Chicago,43,78965
+1027,Helen,IT,Houston,58,76055
+1028,Grace,HR,Houston,53,63878
+1029,Bob,Marketing,New York,32,53636
+1030,Grace,Sales,Chicago,24,52027
+1031,Charlie,IT,Los Angeles,50,51869
+1032,Jane,HR,Phoenix,27,104495
+1033,Jane,IT,Houston,32,106893
+1034,David,Marketing,Houston,39,49841
+1035,Helen,HR,Chicago,26,107621
+1036,Helen,HR,Chicago,41,71345
+1037,David,HR,Chicago,48,47316
+1038,Eva,IT,Phoenix,22,117485
+1039,Alice,Finance,Houston,37,98592
+1040,David,HR,Houston,43,55742
+1041,Charlie,HR,Los Angeles,58,93287
+1042,Grace,IT,Chicago,48,64992
+1043,Eva,IT,Phoenix,32,95554
+1044,Alice,Finance,Chicago,43,55797
+1045,Helen,Sales,Chicago,25,104759
+1046,Bob,Finance,New York,59,57004
+1047,Eva,Sales,Phoenix,52,46736
+1048,Ian,Sales,Phoenix,24,112395
+1049,Charlie,HR,Phoenix,46,63777
+1050,Jane,HR,Phoenix,40,40374
+1051,Jane,Marketing,Houston,41,93553
+1052,Ian,HR,New York,41,117742
+1053,David,IT,New York,25,89260
+1054,Charlie,Marketing,Los Angeles,55,92004
+1055,Helen,IT,Los Angeles,56,119368
+1056,Helen,HR,Los Angeles,34,87678
+1057,Eva,IT,Chicago,56,64392
+1058,Frank,Sales,Chicago,28,62387
+1059,Grace,Finance,New York,41,86547
+1060,Bob,IT,New York,57,72669
+1061,Alice,Marketing,Los Angeles,28,110288
+1062,Alice,Finance,Houston,28,56599
+1063,Jane,IT,Houston,36,51311
+1064,Bob,Finance,New York,45,86049
+1065,Ian,HR,New York,54,61037
+1066,Grace,IT,Chicago,33,66169
+1067,Jane,Sales,Chicago,28,99157
+1068,Eva,IT,Chicago,30,107477
+1069,Grace,HR,Phoenix,34,89446
+1070,Eva,Sales,Chicago,57,58165
+1071,Bob,IT,Chicago,57,41974
+1072,Jane,Sales,New York,60,61215
+1073,Ian,Finance,Chicago,27,42358
+1074,Alice,Finance,Phoenix,36,52347
+1075,Ian,IT,Phoenix,23,94075
+1076,Helen,IT,New York,56,79439
+1077,Ian,Marketing,New York,22,81424
+1078,Frank,Sales,Los Angeles,36,90646
+1079,David,Sales,Phoenix,38,65134
+1080,Ian,Marketing,Houston,37,55794
+1081,Bob,IT,Chicago,23,48397
+1082,Charlie,Finance,Chicago,36,58546
+1083,Bob,IT,Houston,39,63095
+1084,Grace,Finance,Phoenix,57,105271
+1085,David,Finance,Los Angeles,46,111450
+1086,Ian,Finance,New York,41,116158
+1087,Ian,Marketing,Los Angeles,53,114295
+1088,Grace,Marketing,New York,32,68830
+1089,Grace,Finance,Phoenix,47,48757
+1090,Jane,IT,Chicago,26,81087
+1091,Charlie,Marketing,New York,44,67152
+1092,Frank,HR,Phoenix,42,51121
+1093,Grace,Finance,Houston,37,62746
+1094,Helen,Finance,Los Angeles,37,98889
+1095,Ian,Marketing,Los Angeles,52,52912
+1096,Frank,IT,Chicago,51,73683
+1097,Alice,IT,Phoenix,38,58905
+1098,Ian,Marketing,Chicago,24,40321
+1099,Alice,IT,Phoenix,44,40760
+1100,David,Finance,Los Angeles,43,113139
